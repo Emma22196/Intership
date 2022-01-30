@@ -1,0 +1,9 @@
+University of Skövde  Data Science  HS-41298  120
+University of Skövde  Data Science  HS-41299  60
+University of Skövde Privacy, Information and Cyber Security HS-41202 120
+Örebro University Information Systems - Information Security Management ORU-M2200 120
+Stockholm University Information Security SU-43899 120
+Lund University Data Analytics and Business Economics LU-18270 60
+Lund University Information Systems LU-18245 60
+Luleå University of Technology Data Science LTU-97372 60
+Karlstad University MSc in Information Systems KAU-M1244 120
